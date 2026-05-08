@@ -1,4 +1,4 @@
-# SII Harness Engineering Summer Camp
+# SII Harness Engineering Summer Camp（2026）
 
 > 上海创智学院 / SII Harness Engineering 夏令营任务相关代码与学习记录  
 > 本仓库主要用于个人学习、方法复盘与经验分享，不用于任何商业用途。
